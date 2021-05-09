@@ -1,0 +1,1 @@
+In the test description there wasn't anything about database so i didn't integrate the database in the project, but if i did, whenever i fetch a country from the api i will insert it to the db and in the next time the user will fetch a country i will first check if it exists in the database
