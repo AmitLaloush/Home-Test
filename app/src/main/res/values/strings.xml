@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort_name_ascending">Sort name Ascending</string>
+    <string name="sort_name_descending">Sort name descending</string>
+    <string name="sort_area_ascending">Sort area ascending</string>
+    <string name="sort_area_descending">Sort area descending</string>
+    <string name="country_boarders">Country boarders</string>
+</resources>
