@@ -1,6 +1,6 @@
 About:
 This project fetching and displaying all wrold countries from this api "https://restcountries.eu/rest/v2/"
-you can sort the countries name(ascending/descendin) and by area(ascending/descendin)
+you can sort the countries by name(ascending/descendin) and by area(ascending/descendin)
 when clicking on a country the app will display a list of all the countries with a boarder to the selcted country
 
 In the test description there wasn't anything about database so i didn't integrate the database in the project, 
